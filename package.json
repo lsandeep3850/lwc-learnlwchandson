@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/lsandeep3850.lwc-learnlwchandson",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve yUhYeMzPrAEGwnS0JAQb --open"
+  }
+}
